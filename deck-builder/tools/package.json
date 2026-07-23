@@ -1,0 +1,9 @@
+{
+  "name": "deck-builder-icon-tools",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Rasterize tastytrade icons-2.0 SVGs to brand-tinted PNGs for the Deck Builder icon library.",
+  "dependencies": {
+    "@resvg/resvg-js": "^2.6.2"
+  }
+}
